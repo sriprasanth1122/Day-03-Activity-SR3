@@ -11,7 +11,7 @@ let resume=
          },
          techanicalskill:{
 
-             SoftwarestoOperate :'AutoCAD,Basic knowledge in HTML,CSS,JavaScript';
+             SoftwarestoOperate :'AutoCAD,Basic knowledge in HTML,CSS,JavaScript',
             
 
          },
